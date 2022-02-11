@@ -20,7 +20,7 @@ Get pyrogram string session from [BOT](https://t.me/SessionStringGeneratorZBot) 
 # Builpacks
 
 - `heroku/python`
-- 'github.com/thorndike123/SaveRestrictedContentBot`
+- `github.com/thorndike123/SaveRestrictedContentBot`
 
 # Issues
 - if you see any message like `ERROR R12` in heroku logs, just restart. 
